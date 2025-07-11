@@ -1,6 +1,6 @@
 <h1 align="center">🚫 Nobius</h1>
 <p align="center">
-  <a href="https://t.me/YourTelegramLink">
+  <a href="https://t.me/aioexp">
     <img src="https://img.shields.io/badge/Telegram-Join-blue?logo=telegram" alt="Telegram Channel">
   </a>
   <a href="https://github.com/monhacer/Nobius/stargazers">
